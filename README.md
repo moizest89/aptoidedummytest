@@ -16,7 +16,7 @@ This is a test project using the API from [https://es.aptoide.com/](https://es.a
 **App details:** We retrieve detailed information about an application using the endpoint
 >[https://ws75.aptoide.com/api/7/getApp?package_name={packagename}](https://ws75.aptoide.com/api/7/getApp?package_name=$%7Bpackagename%7D).
 
-You can download the app from the following [link](https://github.com/moizest89/AptoideDummyTestApp/resources/app-debug.apk):
+You can download the app from the following [link](https://github.com/moizest89/aptoidedummytest/raw/master/resources/app-debug.apk):
 
 ## Demo
 
