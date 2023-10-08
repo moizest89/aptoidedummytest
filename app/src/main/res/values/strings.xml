@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">AptoideDummyTest</string>
+  <string name="app_name">Aptoide Dummy Test</string>
   <string name="search_here_label">Search here</string>
   <string name="title_activity_splash">SplashActivity</string>
   <string name="title_activity_apps_list">AppsListActivity</string>

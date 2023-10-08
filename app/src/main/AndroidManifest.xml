@@ -23,14 +23,9 @@
         android:exported="false"
         android:theme="@style/AptoideDummyTestTheme" />
     <activity
-        android:name=".presentation.apps.AppsListActivity"
-        android:exported="false"
-        android:label="@string/title_activity_apps_list"
-        android:theme="@style/Theme.AptoideDummyTest" />
-    <activity
         android:name=".presentation.splash.SplashActivity"
         android:exported="true"
-        android:label="@string/title_activity_splash"
+        android:label="@string/app_name"
         android:theme="@style/Theme.AptoideDummyTest">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
