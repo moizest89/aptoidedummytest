@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">AptoideDummyTest</string>
+  <string name="search_here_label">Search here</string>
+  <string name="title_activity_splash">SplashActivity</string>
+  <string name="title_activity_apps_list">AppsListActivity</string>
+  <string name="error_message">Error occurred. Please try again</string>
+  <string name="title_activity_app_details">AppDetailsActivity</string>
+  <string name="try_again_label">Try again</string>
+  <string name="empty_result">I\'m sorry, but we couldn\'t find any results for your search. Please try different search terms or double-check the information you provided.</string>
+  <string name="error_result">Sorry, an error occurred while performing the search. Please check your internet connection and try again later.</string>
+  <string name="resetFilters">Reset filters</string>
+  <string name="orLabel">OR</string>
+</resources>
