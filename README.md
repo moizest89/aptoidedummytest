@@ -20,7 +20,7 @@ You can download the app from the following [link](https://github.com/moizest89/
 
 ## Demo
 
-![](https://github.com/moizest89/AptoideDummyTestApp/resources/apptoide_test.webm)
+![](https://im3.ezgif.com/tmp/ezgif-3-15528b8980.gif)
 
 
 
